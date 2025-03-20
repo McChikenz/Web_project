@@ -680,8 +680,6 @@ ul.filters > li.active > a{
     box-shadow: none; /* Remove hover shadow */
     transform: none; /* Remove hover effect */
   }
-
-
 }
 
 @media (max-width: 568px) {
@@ -697,8 +695,6 @@ ul.filters > li.active > a{
     box-shadow: none; /* Remove hover shadow */
     transform: none; /* Remove hover effect */
   }
-
-
 }
 
 
