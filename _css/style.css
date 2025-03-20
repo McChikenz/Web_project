@@ -506,7 +506,7 @@ input[type="checkbox"]:checked ~ label:before {
 }
 
 /* Responsive styles for cellphone, tablet, and desktop */
-@media (min-width: 991px) {
+@media (max-width: 991px) {
   .img-bg {
     height: calc(40vh); /* Adjust height for screens 991px and below */
   }
